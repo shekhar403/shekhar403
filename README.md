@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://shekhar403.github.io/home/](https://shekhar403.github.io/home/)
 
-- ⚡ Fun fact **I understand computers more than humans**
+- ⚡ Fun fact **I understand computers better than I understand humans.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
