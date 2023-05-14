@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Web Development (MERN)**
 
-- 👨‍💻 All of my projects are available at [https://shekhar403.github.io/home/profile/](https://shekhar403.github.io/home/profile/)
+- 👨‍💻 My portfolio is available at [https://shekhar403.github.io/home/profile/](https://shekhar403.github.io/home/profile/)
 
 - 📝 I regularly write articles on [https://gray-tense-ox.cyclic.app/](https://gray-tense-ox.cyclic.app/)
 
 - 📫 How to reach me **dorashekhar1999@gmail.com**
 
-- 📄 Know about my experiences [https://shekhar403.github.io/home/](https://shekhar403.github.io/home/)
+- 📄 Know about my projects and experiences [https://shekhar403.github.io/home/](https://shekhar403.github.io/home/)
 
 - ⚡ Fun fact **I understand computers better than I understand humans.**
 
